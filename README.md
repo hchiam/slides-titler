@@ -1,4 +1,4 @@
-# Slides Titler
+# <img src="slides-titler.png" height="25"> Slides Titler
 
 Create a tiny title to show up on each slide.
 
