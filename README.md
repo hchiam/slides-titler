@@ -17,3 +17,5 @@ Create a tiny title to show up on each slide.
 <https://developers.google.com/gsuite/add-ons/how-tos/publish-add-on-overview>
 
 <https://www.youtube.com/watch?v=6jcc3xm7aRU>
+
+Reminder to self: you'll need to find the "Store Listing" page inside "APIs & Services - Google Workspace Marketplace SDK".
