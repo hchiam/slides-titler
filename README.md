@@ -1,4 +1,6 @@
-# <img src="slides-titler.png" height="25"> Slides Titler
+# [<img src="slides-titler.png" height="25"> Slides Titler](https://gsuite.google.com/marketplace/app/foo/117735578843)
+
+https://gsuite.google.com/marketplace/app/foo/117735578843
 
 Create a tiny title to show up on each slide.
 
