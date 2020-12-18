@@ -4,6 +4,8 @@ https://gsuite.google.com/marketplace/app/foo/117735578843
 
 Create a tiny title to show up on each slide.
 
+This add-on makes it easier to add the title to each slide. If you decide you don't want it anymore, there's an option to remove all the titles that were automatically added by this add-on.
+
 <img src="screenshot-wide-menu.png" width="700">
 
 ## To learn to create your own Google Apps Scripts:
