@@ -28,4 +28,4 @@ This add-on makes it easier to add the title to each slide. If you decide you do
 
 <https://www.youtube.com/watch?v=6jcc3xm7aRU>
 
-Reminder to self: you'll need to find the "Store Listing" page inside "APIs & Services - Google Workspace Marketplace SDK".
+You'll need to find the "Store Listing" page inside "APIs & Services - Google Workspace Marketplace SDK", with a link like this: <https://console.cloud.google.com/apis/api/appsmarket-component.googleapis.com/googleapps_sdk_publish?project=slides-titler>
