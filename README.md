@@ -8,6 +8,10 @@ This add-on makes it easier to add the title to each slide. If you decide you do
 
 <img src="screenshot-wide-menu.png" width="700">
 
+## Slides Titler Privacy Policy and Terms of Service:
+
+<https://docs.google.com/document/d/1VA-8WLP3njOA6chajUP9VYqJaFn9AjEMQ5jAT4FH5Vs/edit?usp=sharing>
+
 ## To learn to create your own Google Apps Scripts:
 
 <https://github.com/hchiam/learning-google-apps-script>
