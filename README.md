@@ -1,4 +1,4 @@
-# [<img src="slides-titler.png" height="25"> Slides Titler](https://gsuite.google.com/marketplace/app/foo/117735578843)
+# [<img src="slides-titler.png" height="25"> Slides Titler](https://gsuite.google.com/marketplace/app/foo/117735578843) [![version](https://img.shields.io/github/release/hchiam/slides-titler)](https://github.com/hchiam/slides-titler/releases)
 
 <https://gsuite.google.com/marketplace/app/foo/117735578843>
 
